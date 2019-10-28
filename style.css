@@ -1,0 +1,14 @@
+.arrow{
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent; 
+    border-top: 250px solid yellow;
+    
+}
+
+
+@keyframes asd{
+    0%{
+    }
+}
